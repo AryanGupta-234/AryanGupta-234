@@ -77,11 +77,11 @@ approve. Research notes: [P1](https://github.com/AryanGupta-234/P1-).
 </td>
 <td width="50%" valign="top">
 
-### ✅ [Pre-CAB Validator](https://github.com/AryanGupta-234/Demo)
+### 🧩 [PyAutoPilot](https://github.com/AryanGupta-234/PyAutoPilot)
 
-Checks ServiceNow change requests and their evidence before CAB review, locally and read-only.
+Scans a Python script's imports and installs the missing packages, so scripts run on a fresh machine.
 
-`Python` `ServiceNow` `Change management`
+`Python` `pip` `Automation`
 
 </td>
 </tr>
@@ -93,7 +93,6 @@ Checks ServiceNow change requests and their evidence before CAB review, locally 
 
 ### 🧭 More work
 
-- [PyAutoPilot](https://github.com/AryanGupta-234/PyAutoPilot) — finds a script's missing imports and installs them
 - [Hospitality Analysis](https://github.com/AryanGupta-234/Power-Bi-Hospitality-Analysis) — Power BI: revenue, occupancy, ADR, RevPAR
 - [HR Analytics](https://github.com/AryanGupta-234/Power-BI-HR-Analytics) — Power BI: work preferences and leave trends
 
