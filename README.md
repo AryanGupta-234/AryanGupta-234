@@ -24,7 +24,8 @@ I run **[NOBAD](https://nobad-platform.aassworld99.workers.dev/)**, an independe
 *software with a point of view.*
 
 - **Working style:** evidence over assumptions, security by design, local-first, explicit about limits
-- **Currently:** shipping NOBAD VPN, growing NOBAD with collaborators, researching Windows observability ([P1](https://github.com/AryanGupta-234/P1-))
+- **Currently:** shipping NOBAD VPN, growing NOBAD with collaborators, and building SENTI, a local-first AI assistant for Windows
+- **AI:** local LLMs (Ollama) with guard-railed, approval-based tool use; AI-assisted engineering with agents working to written rules ([`AGENTS.md`](https://github.com/AryanGupta-234/Nobad/blob/main/AGENTS.md))
 - **Also:** Python tooling, APIs and data analytics
 
 ---
@@ -46,8 +47,7 @@ so humans and AI assistants work to the same rules. [Contributions welcome](http
 
 | Project | Focus |
 |---|---|
-| [SENTI](https://github.com/AryanGupta-234/SENTI) | Local-first AI assistant for Windows 11: diagnoses system state and runs approved tasks through a local Ollama model |
-| [P1](https://github.com/AryanGupta-234/P1-) | Windows systems research: observer architecture, bounded telemetry, evidence and policy |
+| [SENTI](https://github.com/AryanGupta-234/SENTI) | Local-first AI assistant for Windows 11: observes system state with bounded telemetry, explains it with a local Ollama model, and runs only the tasks you approve. Research and architecture notes: [P1](https://github.com/AryanGupta-234/P1-) |
 | [PyAutoPilot](https://github.com/AryanGupta-234/PyAutoPilot) | Python tooling: finds and installs missing imports |
 | [Demo](https://github.com/AryanGupta-234/Demo) | Workflow validation: evidence-aware pre-CAB checks, read-only ServiceNow integration |
 | [Hospitality Analysis](https://github.com/AryanGupta-234/Power-Bi-Hospitality-Analysis) · [HR Analytics](https://github.com/AryanGupta-234/Power-BI-HR-Analytics) | Power BI: revenue, occupancy, ADR/RevPAR; workforce and leave trends |
