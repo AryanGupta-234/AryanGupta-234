@@ -1,92 +1,119 @@
-<!-- Aryan Gupta | engineering portfolio -->
-
 <div align="center">
 
-# ARYAN GUPTA
-### PRODUCTION SUPPORT · AUTOMATION · AI · SECURITY
+# Aryan Gupta
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1100&color=FF4D00&center=true&vCenter=true&width=720&lines=L2+production+support+%26+automation+at+TCS.;Linux%2C+Bash%2C+IBM+DB2%2C+ServiceNow+APIs.;Building+NOBAD+with+AI+%E2%80%94+software+with+a+point+of+view.;Privacy+and+security+first." alt="Founder of NOBAD, software with a point of view. Privacy-first tools. Windows internals, networking and automation." />
+**Systems & automation engineer, building privacy-first software with AI.**
 
-[![NOBAD](https://img.shields.io/badge/NOBAD-software_with_a_point_of_view-111111?style=flat-square&labelColor=FF4D00&color=111111)](https://nobad-platform.aassworld99.workers.dev/)
-[![NOBAD VPN](https://img.shields.io/github/v/release/AryanGupta-234/Nobad?filter=vpn-v*&label=NOBAD%20VPN&style=flat-square&color=111111&labelColor=FF4D00)](https://github.com/AryanGupta-234/Nobad/releases)
-[![Open source](https://img.shields.io/badge/open_source-MIT-111111?style=flat-square&labelColor=333333)](https://github.com/AryanGupta-234/Nobad)
+Tata Consultancy Services · core banking platforms · RHEL · IBM DB2 · ServiceNow · Founder of [NOBAD](https://nobad-platform.aassworld99.workers.dev/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-gupta-0163a1240/)
+[![NOBAD](https://img.shields.io/badge/NOBAD-software_with_a_point_of_view-FF4D00?style=flat-square)](https://nobad-platform.aassworld99.workers.dev/)
+[![NOBAD VPN](https://img.shields.io/github/v/release/AryanGupta-234/Nobad?filter=vpn-v*&label=NOBAD%20VPN&style=flat-square&color=111827)](https://github.com/AryanGupta-234/Nobad/releases)
 
 </div>
 
----
+<table>
+<tr>
+<td width="58%" valign="top">
 
-## whoami
+### ⚙️ Current focus
 
-I work in **L2 production support and automation** at Tata Consultancy Services: keeping core banking applications
-healthy on Red Hat Enterprise Linux with Bash automation, IBM DB2 checks, cron schedules, ServiceNow REST API incident
-automation and SendGrid alerting, plus log analysis, incident resolution and root-cause analysis.
+At work I engineer automation for critical banking systems on Red Hat Enterprise Linux: health checks and monitoring
+in Bash, IBM DB2 validation, scheduled workflows, ServiceNow incident automation and SendGrid alerting.
 
-Outside work I use **AI to build software**. I design what a tool should do, set the rules and checks, and direct AI
-coding agents to write and test it. That's how I run **[NOBAD](https://nobad-platform.aassworld99.workers.dev/)**,
-an independent, open-source software studio: *software with a point of view.*
+Outside work I use AI to build software: I define what a tool should do, set the rules and checks, and direct AI
+coding agents to build and test it.
 
-- **Working style:** evidence over assumptions, security by design, local-first, explicit about limits
-- **Currently:** shipping NOBAD VPN, growing NOBAD with collaborators, and working on SENTI, a local-first AI assistant for Windows
-- **AI:** building with AI coding agents under written rules, reviews and CI checks; local LLMs (Ollama) with approval-based tool use ([`AGENTS.md`](https://github.com/AryanGupta-234/Nobad/blob/main/AGENTS.md))
-- **Also:** Python tooling, APIs and data analytics
+`Automation` `Linux` `AI-assisted engineering` `Security`
 
----
+</td>
+<td width="42%" valign="top">
 
-## nobad
+### 🧰 Toolkit
 
-| Product | What it is | Status |
-|---|---|---|
-| [**NOBAD VPN**](https://nobad-platform.aassworld99.workers.dev/products/vpn/) | A WireGuard VPN for Windows: kill switch, DNS leak block, Network Intelligence that explains why a site fails, an Evil Twin trust grade for every network, and free servers in two minutes. | Available · CI-built, attested releases |
-| [**NOBAD File Bridge**](https://nobad-platform.aassworld99.workers.dev/products/file-bridge/) | Open, copy, edit and back up the files on your website or server from your PC. Built with [@harshRaj1601](https://github.com/harshRaj1601). | In development |
+**Automation** · Bash, cron, ServiceNow REST API, SendGrid<br>
+**Data** · IBM DB2, SQL<br>
+**Platform** · RHEL, Linux, Windows, AWS<br>
+**AI** · Claude, AI coding agents, Ollama<br>
+**Code** · Python, PowerShell, GitHub Actions
 
-**How NOBAD is built:** protected `main`, code-owner review, CodeQL and Scorecard, SHA-pinned Actions, releases
-built by CI with build-provenance attestations, and an [`AGENTS.md`](https://github.com/AryanGupta-234/Nobad/blob/main/AGENTS.md)
-so humans and AI assistants work to the same rules. [Contributions welcome](https://github.com/AryanGupta-234/Nobad/blob/main/CONTRIBUTING.md).
+</td>
+</tr>
+</table>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## more_projects
+### 🛡️ [NOBAD VPN](https://nobad-platform.aassworld99.workers.dev/products/vpn/)
 
-| Project | Focus |
-|---|---|
-| [SENTI](https://github.com/AryanGupta-234/SENTI) | Local-first AI assistant for Windows 11: observes system state with bounded telemetry, explains it with a local Ollama model, and runs only the tasks you approve. Research and architecture notes: [P1](https://github.com/AryanGupta-234/P1-) |
-| [PyAutoPilot](https://github.com/AryanGupta-234/PyAutoPilot) | Python tooling: finds and installs missing imports |
-| [Demo](https://github.com/AryanGupta-234/Demo) | Workflow validation: evidence-aware pre-CAB checks, read-only ServiceNow integration |
-| [Hospitality Analysis](https://github.com/AryanGupta-234/Power-Bi-Hospitality-Analysis) · [HR Analytics](https://github.com/AryanGupta-234/Power-BI-HR-Analytics) | Power BI: revenue, occupancy, ADR/RevPAR; workforce and leave trends |
+WireGuard VPN for Windows: kill switch, DNS leak block, Network Intelligence that finds why a site fails, and an Evil
+Twin trust grade for every network. CI-built, attested releases.
 
----
+`Python` `WireGuard` `Windows` `Security`
 
-## stack
+</td>
+<td width="50%" valign="top">
+
+### 🔁 [NOBAD File Bridge](https://nobad-platform.aassworld99.workers.dev/products/file-bridge/)
+
+Open, copy, edit and back up the files on your website or server from your PC. In development with
+[@harshRaj1601](https://github.com/harshRaj1601).
+
+`Python` `SFTP` `Sync` `Encrypted vault`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [SENTI](https://github.com/AryanGupta-234/SENTI)
+
+Local-first AI assistant for Windows 11: observes system state, explains it with a local model and only runs what you
+approve. Research notes: [P1](https://github.com/AryanGupta-234/P1-).
+
+`Python` `Ollama` `Local LLM` `Windows`
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ [Pre-CAB Validator](https://github.com/AryanGupta-234/Demo)
+
+Checks ServiceNow change requests and their evidence before CAB review, locally and read-only.
+
+`Python` `ServiceNow` `Change management`
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🧭 More work
+
+- [PyAutoPilot](https://github.com/AryanGupta-234/PyAutoPilot) — finds a script's missing imports and installs them
+- [Hospitality Analysis](https://github.com/AryanGupta-234/Power-Bi-Hospitality-Analysis) — Power BI: revenue, occupancy, ADR, RevPAR
+- [HR Analytics](https://github.com/AryanGupta-234/Power-BI-HR-Analytics) — Power BI: work preferences and leave trends
+
+</td>
+<td width="45%" valign="top">
+
+### 📜 The build history
+
+Before NOBAD I built small Python desktop tools and dashboards: [Image-fitter](https://github.com/AryanGupta-234/Image-fitter),
+[Simple-music-player](https://github.com/AryanGupta-234/Simple-music-player) and the
+[Coffee Sales dashboard](https://github.com/AryanGupta-234/Excel-Coffee-Sales-Dashboard).
+
+`Python` `Tkinter` `Excel` `Power BI`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FF4D00)
-![Windows](https://img.shields.io/badge/Windows_internals-111111?style=for-the-badge&logo=windows&logoColor=FF4D00)
-![WireGuard](https://img.shields.io/badge/WireGuard-111111?style=for-the-badge&logo=wireguard&logoColor=FF4D00)
-![PowerShell](https://img.shields.io/badge/PowerShell-111111?style=for-the-badge&logo=powershell&logoColor=FF4D00)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=FF4D00)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=FF4D00)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=FF4D00)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FF4D00)
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=FF4D00)
-![Power BI](https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&logo=powerbi&logoColor=FF4D00)
-
-</div>
-
----
-
-## principles
-
-- **Clarity over hype.** Say what a project does today, not what it might become.
-- **Security by design.** Collect less, constrain capabilities, make sensitive actions explicit.
-- **Evidence over assumptions.** Separate what was measured from what is estimated.
-- **Built to last.** Readable docs, reproducible builds, tests at the boundaries.
-
-<div align="center">
-
-[![NOBAD website](https://img.shields.io/badge/Visit_NOBAD-111111?style=for-the-badge&logoColor=FF4D00&labelColor=FF4D00)](https://nobad-platform.aassworld99.workers.dev/)
-[![Repositories](https://img.shields.io/badge/All_repositories-111111?style=for-the-badge&logo=github&logoColor=FF4D00)](https://github.com/AryanGupta-234?tab=repositories)
-
-<sub>BUILD · TEST · ATTEST · SHIP</sub>
+<sub>NOBAD — software with a point of view.</sub>
 
 </div>
