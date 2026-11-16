@@ -3,9 +3,9 @@
 <div align="center">
 
 # ARYAN GUPTA
-### SOFTWARE ENGINEERING · SYSTEMS · NETWORKING · SECURITY
+### PRODUCTION SUPPORT · AUTOMATION · AI · SECURITY
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1100&color=FF4D00&center=true&vCenter=true&width=720&lines=Founder+of+NOBAD+%E2%80%94+software+with+a+point+of+view.;Privacy-first+tools+for+Windows+and+beyond.;Windows+internals%2C+networking+and+automation.;Shipping+in+the+open%2C+tested+and+attested." alt="Founder of NOBAD, software with a point of view. Privacy-first tools. Windows internals, networking and automation." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1100&color=FF4D00&center=true&vCenter=true&width=720&lines=L2+production+support+%26+automation+at+TCS.;Linux%2C+Bash%2C+IBM+DB2%2C+ServiceNow+APIs.;Building+NOBAD+with+AI+%E2%80%94+software+with+a+point+of+view.;Privacy+and+security+first." alt="Founder of NOBAD, software with a point of view. Privacy-first tools. Windows internals, networking and automation." />
 
 [![NOBAD](https://img.shields.io/badge/NOBAD-software_with_a_point_of_view-111111?style=flat-square&labelColor=FF4D00&color=111111)](https://nobad-platform.aassworld99.workers.dev/)
 [![NOBAD VPN](https://img.shields.io/github/v/release/AryanGupta-234/Nobad?filter=vpn-v*&label=NOBAD%20VPN&style=flat-square&color=111111&labelColor=FF4D00)](https://github.com/AryanGupta-234/Nobad/releases)
@@ -17,15 +17,17 @@
 
 ## whoami
 
-I build software that does one job well and is honest about what it does. My focus is where **systems, networking
-and security** meet: Windows internals, network diagnostics, privacy tooling and the automation around them.
+I work in **L2 production support and automation** at Tata Consultancy Services: keeping core banking applications
+healthy on Red Hat Enterprise Linux with Bash automation, IBM DB2 checks, cron schedules, ServiceNow REST API incident
+automation and SendGrid alerting, plus log analysis, incident resolution and root-cause analysis.
 
-I run **[NOBAD](https://nobad-platform.aassworld99.workers.dev/)**, an independent, open-source software studio:
-*software with a point of view.*
+Outside work I use **AI to build software**. I design what a tool should do, set the rules and checks, and direct AI
+coding agents to write and test it. That's how I run **[NOBAD](https://nobad-platform.aassworld99.workers.dev/)**,
+an independent, open-source software studio: *software with a point of view.*
 
 - **Working style:** evidence over assumptions, security by design, local-first, explicit about limits
-- **Currently:** shipping NOBAD VPN, growing NOBAD with collaborators, and building SENTI, a local-first AI assistant for Windows
-- **AI:** local LLMs (Ollama) with guard-railed, approval-based tool use; AI-assisted engineering with agents working to written rules ([`AGENTS.md`](https://github.com/AryanGupta-234/Nobad/blob/main/AGENTS.md))
+- **Currently:** shipping NOBAD VPN, growing NOBAD with collaborators, and working on SENTI, a local-first AI assistant for Windows
+- **AI:** building with AI coding agents under written rules, reviews and CI checks; local LLMs (Ollama) with approval-based tool use ([`AGENTS.md`](https://github.com/AryanGupta-234/Nobad/blob/main/AGENTS.md))
 - **Also:** Python tooling, APIs and data analytics
 
 ---
