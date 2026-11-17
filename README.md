@@ -4,11 +4,12 @@
 
 **Systems & automation engineer, building privacy-first software with AI.**
 
-Tata Consultancy Services · core banking platforms · RHEL · IBM DB2 · ServiceNow · Founder of [NOBAD](https://nobad-platform.aassworld99.workers.dev/)
+Tata Consultancy Services · core banking platforms · RHEL · IBM DB2 · ServiceNow · Founder of [NOBAD](https://nobad-platform.nobad-studio.workers.dev/) ([nobad-studio](https://github.com/nobad-studio) on GitHub)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-gupta-0163a1240/)
-[![NOBAD](https://img.shields.io/badge/NOBAD-software_with_a_point_of_view-FF4D00?style=flat-square)](https://nobad-platform.aassworld99.workers.dev/)
-[![NOBAD VPN](https://img.shields.io/github/v/release/AryanGupta-234/Nobad?filter=vpn-v*&label=NOBAD%20VPN&style=flat-square&color=111827)](https://github.com/AryanGupta-234/Nobad/releases)
+[![NOBAD](https://img.shields.io/badge/NOBAD-software_with_a_point_of_view-FF4D00?style=flat-square)](https://nobad-platform.nobad-studio.workers.dev/)
+[![NOBAD VPN](https://img.shields.io/github/v/release/nobad-studio/Nobad-VPN?filter=vpn-v*&label=NOBAD%20VPN&style=flat-square&color=111827)](https://github.com/nobad-studio/Nobad-VPN/releases)
+[![GitHub organization](https://img.shields.io/badge/GitHub-nobad--studio-111827?style=flat-square&logo=github)](https://github.com/nobad-studio)
 
 </div>
 
@@ -45,7 +46,7 @@ coding agents to build and test it.
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [NOBAD VPN](https://nobad-platform.aassworld99.workers.dev/products/vpn/)
+### 🛡️ [NOBAD VPN](https://nobad-platform.nobad-studio.workers.dev/products/vpn/)
 
 WireGuard VPN for Windows: kill switch, DNS leak block, Network Intelligence that finds why a site fails, and an Evil
 Twin trust grade for every network. CI-built, attested releases.
@@ -55,7 +56,7 @@ Twin trust grade for every network. CI-built, attested releases.
 </td>
 <td width="50%" valign="top">
 
-### 🔁 [NOBAD File Bridge](https://nobad-platform.aassworld99.workers.dev/products/file-bridge/)
+### 🔁 [NOBAD File Bridge](https://nobad-platform.nobad-studio.workers.dev/products/file-bridge/)
 
 Open, copy, edit and back up the files on your website or server from your PC. In development with
 [@harshRaj1601](https://github.com/harshRaj1601).
