@@ -37,7 +37,7 @@ Evil Twin trust grade for every network.
 Private, offline search for your own files: by name, the words inside, meaning and what's in a photo. Ask in plain
 words; nothing leaves your PC.
 
-[Repo](https://github.com/nobad-studio/Nobad-VPN/tree/main/apps/find) · [Releases](https://github.com/nobad-studio/Nobad-VPN/releases?q=find-v)
+[Repo](https://github.com/nobad-studio/find) · [Releases](https://github.com/nobad-studio/Nobad-VPN/releases?q=find-v)
 
 `Python` `Flutter` `Local AI` `Privacy`
 
